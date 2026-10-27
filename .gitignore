@@ -3,5 +3,6 @@
 .vscode/
 __pycache__/
 docs/
+data/
 video/
 vae_final.pth
